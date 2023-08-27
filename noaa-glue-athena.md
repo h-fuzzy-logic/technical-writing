@@ -17,6 +17,7 @@ This walkthrough provides the specifics for using publicly available NOAA weathe
 
 ## Conventions
 :moneybag: denotes cost savings tips
+<br/>
 :bookmark: denotes a learning based on the results 
  
 
